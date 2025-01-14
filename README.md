@@ -1,6 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Pat625Hd)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14530705&assignment_repo_type=AssignmentRepo)
 # Wildcard Project
 
-You have a cool idea for a machine learning project? Use this repository. Make
-sure to explain what problem you're solving and how you're doing it.
+As technology has expanded to become an irreplaceble part of everyday life, it has allowed communication with anyone, in any part of the world, accessible through internet access. Although this has its well-known positives, the reality is it opens up the user to a potentially dangerous world, if they are not adept at using communication applications. Through a simple text, tweet, or blog post, one individual may have the ability to produce unbounded positivity; however, they also have the ability to produce a chain reaction of never-ending negativity. In addition to the fact that children can easily access these environments, the effects will only magnify throughout the future.
+
+While an individual user cannot control what others type on the internet, they can control what they type; however, that is harder than it seems and the margin of error is too little to rely on one's self to have that discipline. This is where I believe machine learning can provide some additional support. In this wild-card project, I aim to use what I have learned to develop a machine-learning based solution to the mentioned problem.
